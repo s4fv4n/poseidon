@@ -8,7 +8,7 @@
   },
   "payload_output": ["macho", "elf", "dylib", "so"],
   "architectures": ["x86_64", "arm_64"],
-  "c2": ["http", "websocket", "dynamichttp", "poseidon_tcp"],
+  "c2": ["http", "websocket", "dynamichttp", "poseidon_tcp", "dns"],
   "mythic_version": "3.2.20-rc11",
   "agent_version": "2.0.36",
   "supported_wrappers": []
